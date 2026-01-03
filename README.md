@@ -1,4 +1,4 @@
-#🌲 Transfer Learning for Binary Forest Segmentation
+# Transfer Learning for Binary Forest Segmentation
 1. Problem Statement
 
 Binary image segmentation is a fundamental task in computer vision with applications in environmental monitoring, land-use analysis, and remote sensing. Training deep segmentation models from scratch is computationally expensive and often suboptimal when labeled data is limited. This project investigates whether transfer learning using pre-trained encoders can improve segmentation performance and training efficiency compared to training a model entirely from scratch.
